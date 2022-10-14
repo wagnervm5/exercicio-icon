@@ -1,0 +1,31 @@
+.container {
+    margin-top: 45px;
+}
+.row {
+    margin-bottom: 25px;
+    
+}
+.col {
+    height: 120px;
+    padding: 10px;
+    border: 2px solid lightgray;
+    border-radius: 20px;
+}
+
+.bi {
+    
+    font-size: 50px;
+    height: ;
+}
+
+.bi-airplane-engines {
+    color: blueviolet;
+}
+
+.bi-android2 {
+    color: yellowgreen;
+}
+
+.bi-badge-4k {
+    color: darkmagenta;
+}
